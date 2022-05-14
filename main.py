@@ -1,7 +1,7 @@
 """
 Prototipo Programado - Áreas por reforestar en Guatemala
 Algoritmos y Programación Básica
-Desarrollado por Gerson Ramírez, Diego Betancourt y Pablo Alvarado
+Desarrollado por Gerson Ramírez y Diego Betancourt
 """
 
 """ Pendiente la extracción de información con csv
